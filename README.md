@@ -14,7 +14,7 @@ Note: The state of a video being reviewed is just a boolean true or false and a 
   * for out of the box features such as styling and responsiveness.
 
 # Instructions
-please run npm install in the app dir and then run the command: 
+Please run npm install in the app dir and then run the command: 
 ```
 npm start
 ```
@@ -26,6 +26,6 @@ The build directory has the Production build ready to be deployed to a server
 # Screenshots
 
 ![alt text](https://raw.githubusercontent.com/tejpal-sohal/chilliPharm/master/docs/desktop.jpg "chilliPharm")
-![alt text](https://raw.githubusercontent.com/tejpal-sohal/chilliPharm/master/docs/mobile.jpg "chilliPharm")
+![alt text](https://github.com/tejpal-sohal/chilliPharm/blob/master/docs/wireframes.png "chilliPharm")
 
 
