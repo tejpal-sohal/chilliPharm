@@ -25,7 +25,7 @@ The build directory has the Production build ready to be deployed to a server
 
 # Screenshots
 
-![alt text](https://github.com/tejpal-sohal/chilliPharm/master/docs/desktop.jpg "chilliPharm")
-![alt text](https://github.com/tejpal-sohal/chilliPharm/master/docs/mobile.jpg "chilliPharm")
+![alt text](https://raw.githubusercontent.com/tejpal-sohal/chilliPharm/master/docs/desktop.jpg "chilliPharm")
+![alt text](https://raw.githubusercontent.com/tejpal-sohal/chilliPharm/master/docs/mobile.jpg "chilliPharm")
 
 
