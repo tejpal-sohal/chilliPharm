@@ -18,12 +18,13 @@ Please run npm install in the app dir and then run the command:
 ```
 npm start
 ```
+###### please refer to the Application Docs found in app/AppDoc.docx
 
 ## Release
 The build directory has the Production build ready to be deployed to a server
 
 
-# Screenshots
+# WireFrame
 
 ![alt text](https://github.com/tejpal-sohal/chilliPharm/blob/master/docs/wireframes.png "chilliPharm")
 
